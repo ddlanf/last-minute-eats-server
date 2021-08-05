@@ -22,7 +22,6 @@ describe('Recipe API:', function () {
 
   after('disconnect from the database', () => db.destroy()); 
 
-
     describe('GET /api/recipes', () => {
 
         beforeEach('insert some recipes', () => {
