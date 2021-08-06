@@ -25,7 +25,7 @@ app.use(
 )
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Last Minute Recipe API!')
+  res.send('Welcome to the Last Minute Eats API!')
 })
 
 app.use('/api/recipes', recipesRouter)
