@@ -33,7 +33,7 @@ The endpoints this API provides include the following.
  ## Technologies used
 - Node.js (Express)
 - PostgreSQL
-- Heroku Server and Database (Deployment)
+- Azure Web App Service and PostgresSQL Database (Deployment)
 - Testing with Mocha, Chai, and Supertest
 
 ## Running the server with client locally
