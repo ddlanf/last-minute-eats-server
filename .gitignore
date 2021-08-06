@@ -1,3 +1,4 @@
 node_modules
 .env
 azureconfig.json
+azuredbconfig.json
